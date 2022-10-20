@@ -1,4 +1,4 @@
-# 🚴🏼♂️ Kabir Ahmed Campwala
+# 🚴🏼 Kabir Ahmed Campwala
 
 **`Software Engineer`**
 
