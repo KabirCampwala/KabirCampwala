@@ -5,10 +5,7 @@
    **`Software Engineer`**
 
    Computer Science student with a passion for learning, innovation, and technology.
-
-         <a href="https://github.com/KabirCampwala?tab=followers"></a>
-         <a href="https://github.com/KabirCampwala?tab=repositories&sort=stargazers"></a>
-   </p>
+</p>
 
 ---
 
